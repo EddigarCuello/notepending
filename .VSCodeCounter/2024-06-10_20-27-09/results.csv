@@ -1,0 +1,52 @@
+"filename", "language", "JavaScript JSX", "JavaScript", "CSS", "XML", "JSON", "Markdown", "HTML", "comment", "blank", "total"
+"c:\Users\Eddi\Documents\NodeCode\notepending\.eslintrc.cjs", "JavaScript", 0, 21, 0, 0, 0, 0, 0, 0, 1, 22
+"c:\Users\Eddi\Documents\NodeCode\notepending\README.md", "Markdown", 0, 0, 0, 0, 0, 5, 0, 0, 4, 9
+"c:\Users\Eddi\Documents\NodeCode\notepending\index.html", "HTML", 0, 0, 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\Eddi\Documents\NodeCode\notepending\package-lock.json", "JSON", 0, 0, 0, 0, 6303, 0, 0, 0, 1, 6304
+"c:\Users\Eddi\Documents\NodeCode\notepending\package.json", "JSON", 0, 0, 0, 0, 35, 0, 0, 0, 1, 36
+"c:\Users\Eddi\Documents\NodeCode\notepending\postcss.config.js", "JavaScript", 0, 6, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\Users\Eddi\Documents\NodeCode\notepending\public\vite.svg", "XML", 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Datos\Auth.js", "JavaScript", 0, 53, 0, 0, 0, 0, 0, 2, 14, 69
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Datos\PersonaData.js", "JavaScript", 0, 37, 0, 0, 0, 0, 0, 1, 6, 44
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Datos\ProyectoData.js", "JavaScript", 0, 117, 0, 0, 0, 0, 0, 3, 14, 134
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Datos\TareaData.js", "JavaScript", 0, 110, 0, 0, 0, 0, 0, 5, 9, 124
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Datos\filesData.js", "JavaScript", 0, 40, 0, 0, 0, 0, 0, 0, 8, 48
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Datos\firebase.js", "JavaScript", 0, 17, 0, 0, 0, 0, 0, 1, 5, 23
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Entidades\Miembro.js", "JavaScript", 0, 7, 0, 0, 0, 0, 0, 0, 2, 9
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Entidades\Persona.js", "JavaScript", 0, 10, 0, 0, 0, 0, 0, 0, 3, 13
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Entidades\Proyecto.js", "JavaScript", 0, 18, 0, 0, 0, 0, 0, 1, 2, 21
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Entidades\tarea.js", "JavaScript", 0, 24, 0, 0, 0, 0, 0, 1, 2, 27
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Logica\AuthServices.js", "JavaScript", 0, 36, 0, 0, 0, 0, 0, 2, 5, 43
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Logica\PersonaServices.js", "JavaScript", 0, 12, 0, 0, 0, 0, 0, 1, 2, 15
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Logica\ProyectoServices.js", "JavaScript", 0, 104, 0, 0, 0, 0, 0, 2, 17, 123
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Logica\TareaServices.js", "JavaScript", 0, 86, 0, 0, 0, 0, 0, 6, 13, 105
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\App.jsx", "JavaScript JSX", 35, 0, 0, 0, 0, 0, 0, 0, 3, 38
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\Auth\Login.jsx", "JavaScript JSX", 68, 0, 0, 0, 0, 0, 0, 1, 7, 76
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\Auth\Register.jsx", "JavaScript JSX", 103, 0, 0, 0, 0, 0, 0, 1, 5, 109
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\Componentes\Button.jsx", "JavaScript JSX", 10, 0, 0, 0, 0, 0, 0, 0, 1, 11
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\Componentes\ButtonLinkLong.jsx", "JavaScript JSX", 12, 0, 0, 0, 0, 0, 0, 0, 3, 15
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\Componentes\ButtonLinkNav.jsx", "JavaScript JSX", 19, 0, 0, 0, 0, 0, 0, 1, 4, 24
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\Componentes\Card.jsx", "JavaScript JSX", 3, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\Componentes\Input.jsx", "JavaScript JSX", 13, 0, 0, 0, 0, 0, 0, 0, 2, 15
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\Componentes\Label.jsx", "JavaScript JSX", 9, 0, 0, 0, 0, 0, 0, 0, 2, 11
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\Componentes\LabelTitulo.jsx", "JavaScript JSX", 9, 0, 0, 0, 0, 0, 0, 0, 2, 11
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\Componentes\Navbar.jsx", "JavaScript JSX", 37, 0, 0, 0, 0, 0, 0, 1, 5, 43
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\Componentes\PersonaPopUp.jsx", "JavaScript JSX", 64, 0, 0, 0, 0, 0, 0, 0, 7, 71
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\Componentes\Spam.jsx", "JavaScript JSX", 5, 0, 0, 0, 0, 0, 0, 1, 3, 9
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\Componentes\tarjeta-Personal.jsx", "JavaScript JSX", 248, 0, 0, 0, 0, 0, 0, 2, 19, 269
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\Componentes\tarjeta-admin.jsx", "JavaScript JSX", 235, 0, 0, 0, 0, 0, 0, 1, 21, 257
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\Pages\AsignarTarea.jsx", "JavaScript JSX", 200, 0, 0, 0, 0, 0, 0, 2, 13, 215
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\Pages\CrearProyecto.jsx", "JavaScript JSX", 86, 0, 0, 0, 0, 0, 0, 0, 9, 95
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\Pages\CrearTarea.jsx", "JavaScript JSX", 159, 0, 0, 0, 0, 0, 0, 2, 11, 172
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\Pages\Home.jsx", "JavaScript JSX", 56, 0, 0, 0, 0, 0, 0, 0, 6, 62
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\Pages\seleccion-proyecto.jsx", "JavaScript JSX", 101, 0, 0, 0, 0, 0, 0, 0, 10, 111
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\Pages\tablero-personal.jsx", "JavaScript JSX", 101, 0, 0, 0, 0, 0, 0, 0, 8, 109
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\Pages\tablero-proyecto.jsx", "JavaScript JSX", 183, 0, 0, 0, 0, 0, 0, 3, 20, 206
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\ProyectContext.jsx", "JavaScript JSX", 18, 0, 0, 0, 0, 0, 0, 5, 5, 28
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\Ui\UserContext.jsx", "JavaScript JSX", 22, 0, 0, 0, 0, 0, 0, 5, 5, 32
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\assets\react.svg", "XML", 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\index.css", "CSS", 0, 0, 3, 0, 0, 0, 0, 1, 1, 5
+"c:\Users\Eddi\Documents\NodeCode\notepending\src\main.jsx", "JavaScript JSX", 9, 0, 0, 0, 0, 0, 0, 0, 3, 12
+"c:\Users\Eddi\Documents\NodeCode\notepending\tailwind.config.js", "JavaScript", 0, 10, 0, 0, 0, 0, 0, 2, 1, 13
+"c:\Users\Eddi\Documents\NodeCode\notepending\vite.config.js", "JavaScript", 0, 12, 0, 0, 0, 0, 0, 1, 2, 15
+"Total", "-", 1805, 720, 3, 2, 6338, 5, 13, 54, 290, 9230
